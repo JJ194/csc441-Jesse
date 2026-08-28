@@ -11,6 +11,7 @@ Genrally improve at programming, and how Android programming enviroments work
 - **Git installed:** yes
 ## Notes to future me
 Things I got stuck on, so I don't get stuck again: Use Mac cmds for the Linux terminal.
+8/28 used the personal token succesfully to push
 
 ## Terminal commands I learned
 -pwd
