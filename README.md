@@ -11,3 +11,9 @@ Genrally improve at programming, and how Android programming enviroments work
 - **Git installed:** yes
 ## Notes to future me
 Things I got stuck on, so I don't get stuck again: Use Mac cmds for the Linux terminal.
+
+## Terminal commands I learned
+-pwd
+-ls
+-cd
+-mkdir
