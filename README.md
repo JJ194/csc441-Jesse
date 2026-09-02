@@ -18,3 +18,7 @@ Things I got stuck on, so I don't get stuck again: Use Mac cmds for the Linux te
 -ls
 -cd
 -mkdir
+## My goals for this course
+- Gain a better understanding of command line envirmoments
+- Learn how to utilize github 
+- Graduate!
