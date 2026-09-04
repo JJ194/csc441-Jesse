@@ -31,4 +31,4 @@ Things I got stuck on, so I don't get stuck again: Use Mac cmds for the Linux te
 
 ## Status
 
-Working thorough branches. Slighty confused but getting there
+Learning git. Branches make sense now; merge conflicts are next.
