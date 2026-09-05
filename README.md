@@ -24,10 +24,10 @@ Things I got stuck on, so I don't get stuck again: Use Mac cmds for the Linux te
 - Graduate!
 
 - ## Tools I have installed
-- [ ] Git
-- [ ] IntelliJ IDEA Community Edition
-- [ ] Android Studio
-- [ ] VS Code
+- [ ] Git - Installed 8/24/26
+- [ ] IntelliJ IDEA Community Edition - Installed 9/4/26
+- [ ] Android Studio - Installed 9/4/26
+- [ ] VS Code - Installed 9/4/26
 
 ## Status
 
