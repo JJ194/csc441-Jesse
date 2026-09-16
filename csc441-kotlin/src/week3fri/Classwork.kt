@@ -38,7 +38,7 @@ fun main ()
         println("$index : $item")
     }
 
-    shoppingList.forEachIndexed{
+    shoppingList.forEachIndexed {
         index, item -> println("$index is $item")
     }
 
