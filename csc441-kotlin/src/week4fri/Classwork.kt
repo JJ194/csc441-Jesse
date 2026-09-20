@@ -1,9 +1,9 @@
 package week4fri
 
 fun main () {
-    println("--- Step 1: Two kins of string ---")
+    println("--- Step 1: Two kinds of string ---")
     val firstName: String = "Jesse"
-    val middleName: String? = null
+    val middleName: String? = null  //Add a name here to have an output for step 4
 
     println(firstName.length)
     println(middleName?.length)
@@ -16,6 +16,7 @@ fun main () {
 
 
     println("--- Step 4: Let ---")
+
     middleName?.let { //middleName -> ("Middle name is : middleName") *Best practice*
         println("Middle name is : $it")
     }
